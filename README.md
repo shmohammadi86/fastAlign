@@ -30,7 +30,7 @@ tab_read.m, dmat_write.m
 Respectively for reading the (original) tab-delimited PPI files and outputing dense matrices.
 
 bio.m
-The script parsing input and result files in a local file organization mirroring those of actual experiment runs similar to the ones under http://www.cs.purdue.edu/homes/gkollias/data/bio/ to compute, gather output from different stages (e.g. auction matching) and approaches (e.g. IsoRank binary) and finally produce "uniform" output. It uses all the above routine files.
+The script parsing input and result files in a local file organization mirroring those of actual experiment runs to compute, gather output from different stages (e.g. auction matching) and approaches (e.g. IsoRank binary) and finally produce "uniform" output. It uses all the above routine files.
 
 count_overlap.m, csum.m, normout.m, scomponents.m, sparse_to_csr.m
 Files from netalign project (dependencies provided for convenience).
